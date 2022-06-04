@@ -1,0 +1,6 @@
+Info (10281): Verilog HDL Declaration information at video_driver.sv(8): object "r" differs only in case from object "R" in the same scope File: C:/Users/Dan/Desktop/TTL_VGA/video_driver.sv Line: 8
+Info (10281): Verilog HDL Declaration information at video_driver.sv(8): object "g" differs only in case from object "G" in the same scope File: C:/Users/Dan/Desktop/TTL_VGA/video_driver.sv Line: 8
+Info (10281): Verilog HDL Declaration information at video_driver.sv(8): object "b" differs only in case from object "B" in the same scope File: C:/Users/Dan/Desktop/TTL_VGA/video_driver.sv Line: 8
+Info (10281): Verilog HDL Declaration information at TTL_VGA.sv(18): object "r" differs only in case from object "R" in the same scope File: C:/Users/Dan/Desktop/TTL_VGA/TTL_VGA.sv Line: 18
+Info (10281): Verilog HDL Declaration information at TTL_VGA.sv(18): object "g" differs only in case from object "G" in the same scope File: C:/Users/Dan/Desktop/TTL_VGA/TTL_VGA.sv Line: 18
+Info (10281): Verilog HDL Declaration information at TTL_VGA.sv(18): object "b" differs only in case from object "B" in the same scope File: C:/Users/Dan/Desktop/TTL_VGA/TTL_VGA.sv Line: 18

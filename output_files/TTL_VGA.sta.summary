@@ -1,0 +1,53 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'GPIO_0[6]'
+Slack : -1.287
+TNS   : -30.963
+
+Type  : Slow 1100mV 85C Model Hold 'GPIO_0[6]'
+Slack : 0.328
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'GPIO_0[6]'
+Slack : -0.394
+TNS   : -16.212
+
+Type  : Slow 1100mV 0C Model Setup 'GPIO_0[6]'
+Slack : -1.270
+TNS   : -30.374
+
+Type  : Slow 1100mV 0C Model Hold 'GPIO_0[6]'
+Slack : 0.310
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'GPIO_0[6]'
+Slack : -0.394
+TNS   : -14.936
+
+Type  : Fast 1100mV 85C Model Setup 'GPIO_0[6]'
+Slack : -0.248
+TNS   : -5.770
+
+Type  : Fast 1100mV 85C Model Hold 'GPIO_0[6]'
+Slack : 0.182
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'GPIO_0[6]'
+Slack : -0.289
+TNS   : -7.838
+
+Type  : Fast 1100mV 0C Model Setup 'GPIO_0[6]'
+Slack : -0.163
+TNS   : -3.796
+
+Type  : Fast 1100mV 0C Model Hold 'GPIO_0[6]'
+Slack : 0.171
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'GPIO_0[6]'
+Slack : -0.267
+TNS   : -7.227
+
+------------------------------------------------------------
